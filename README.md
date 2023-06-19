@@ -1,2 +1,3 @@
 # Portifolio
-Portifolio-primeiro-teste
+Portifolio estudos de Python e suas aplicações 
+
